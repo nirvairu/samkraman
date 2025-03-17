@@ -1,1 +1,2 @@
 # samkraman
+Language Idea (WIP)
